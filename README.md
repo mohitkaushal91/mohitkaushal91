@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on building an Innovative Web Application for Immigrants.<br>👯 I'm always up to collaborate on open-source projects that make a positive impact on the community.<br>💬 Ask me: Anything related to software/Web Development, Guidance, and Learning Resources<br>
+👯 I'm always up to collaborate on open-source projects that make a positive impact on the community.<br>💬 Ask me: Anything related to software/Web Development, Guidance, and Learning Resources<br>
 
 
 ## 🌐 Socials:
